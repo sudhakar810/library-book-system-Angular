@@ -20,8 +20,8 @@
     "@angular/platform-browser": "~9.1.11",
     "@angular/platform-browser-dynamic": "~9.1.11",
     "@angular/router": "~9.1.11",
-    "@datorama/akita": "^5.0.1",
-    "@datorama/akita-ng-entity-service": "^2.0.0",
+    "@datorama/akita": "^8.0.1",
+    "@datorama/akita-ng-entity-service": "^2.0.3",
     "@ngneat/content-loader": "^4.1.0",
     "@ngneat/until-destroy": "^7.1.6",
     "date-fns": "^2.14.0",
@@ -35,10 +35,10 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~21.0.0",
-    "@angular/cli": "^6.0.0",
+    "@angular/cli": "^21.0.0",
     "@angular/compiler-cli": "~9.1.11",
     "@datorama/akita-ng-router-store": "^5.0.0",
-    "@datorama/akita-ngdevtools": "^4.0.0",
+    "@datorama/akita-ngdevtools": "^4.0.2",
     "@types/jasmine": "~3.5.0",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "^12.11.1",
@@ -58,7 +58,7 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~3.8.3",
-    "webpack": "^4.32.2",
+    "webpack": "^5.103.0",
     "extract-text-webpack-plugin": "^4.0.0-beta.0"
   }
 }
