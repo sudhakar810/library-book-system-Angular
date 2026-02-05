@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~21.0.0",
-    "@angular/cli": "^6.0.0",
+    "@angular/cli": "^6.2.9",
     "@angular/compiler-cli": "~9.1.11",
     "@datorama/akita-ng-router-store": "^5.0.0",
     "@datorama/akita-ngdevtools": "^4.0.0",
